@@ -10,6 +10,7 @@ subtitle: There are no secrets to success. It is the result of preparation, hard
 
 ## Research
 ---
+
 #### ChewAnalyzer
 1. Finish all the related coding work
 - Trim the IO traces to ASCII format (TraceFormatConver.c)
@@ -33,6 +34,7 @@ subtitle: There are no secrets to success. It is the result of preparation, hard
 
 ## English Skills
 ---
+
 #### Speaking
 - words
 - speak more
@@ -41,6 +43,7 @@ subtitle: There are no secrets to success. It is the result of preparation, hard
 
 ## Travels
 ---
+
 #### Driving Skills
 - practice for driver liscense
 - be a patient coach for Apple
@@ -49,6 +52,7 @@ subtitle: There are no secrets to success. It is the result of preparation, hard
 
 ## Others
 ---
+
 #### Upgrade my personal website
 - buy a personal Domain Name
 - update blogs
