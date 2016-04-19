@@ -8,6 +8,7 @@ XXC's To Do List
 **There are no secrets to success. It is the result of preparation, hard work, and learning from failure.**
 
 ## Research
+
 #### ChewAnalyzer
 1. Finish all the related coding work
 - Trim the IO traces to ASCII format (TraceFormatConver.c)
@@ -30,6 +31,7 @@ XXC's To Do List
 - write contention 
 
 ## English Skills
+
 #### Speaking
 - words
 - speak more
@@ -37,6 +39,7 @@ XXC's To Do List
 - talk more with native people
 
 ## Travels
+
 #### Driving Skills
 - practice for driver liscense
 - be a patient coach for Apple
@@ -44,9 +47,11 @@ XXC's To Do List
 - how to rent car for traveling
 
 ## Others
+
 #### Upgrade my personal website
 - buy a personal Domain Name
 - update blogs
+
 #### learn Python
 - also the shell 
 - linux
