@@ -5,8 +5,8 @@ subtitle: There are no secrets to success. It is the result of preparation, hard
 ---
 
 
-<h1 style="text-align:center"> I have nothing to offer but blood, boil, tears and sweat.<h1>
-<h1 style="text-align:right"> --Winston Churchill<h1>
+<div align="center"> I have nothing to offer but blood, boil, tears and sweat.</div>
+<div align="right"> --Winston Churchill</div>
 
 ## Research
 
