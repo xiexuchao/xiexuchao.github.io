@@ -1,11 +1,12 @@
 ---
 layout: page
-title: To Do List 
-subtitle: I have nothing to offer but blood, boil, tears and sweat.   --Winston Churchill 
+title: XXC's To Do List 
+subtitle: There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 ---
-XXC's To Do List
 
-**There are no secrets to success. It is the result of preparation, hard work, and learning from failure.**
+
+<h1 style="text-align:center"> I have nothing to offer but blood, boil, tears and sweat.<h1>
+<h1 style="text-align:right"> --Winston Churchill<h1>
 
 ## Research
 
