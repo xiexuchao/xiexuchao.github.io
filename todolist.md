@@ -9,7 +9,7 @@ subtitle: There are no secrets to success. It is the result of preparation, hard
 <div align="right"> --Winston Churchill</div>
 
 ## Research
-
+---
 #### ChewAnalyzer
 1. Finish all the related coding work
 - Trim the IO traces to ASCII format (TraceFormatConver.c)
@@ -32,7 +32,7 @@ subtitle: There are no secrets to success. It is the result of preparation, hard
 - write contention 
 
 ## English Skills
-
+---
 #### Speaking
 - words
 - speak more
@@ -40,7 +40,7 @@ subtitle: There are no secrets to success. It is the result of preparation, hard
 - talk more with native people
 
 ## Travels
-
+---
 #### Driving Skills
 - practice for driver liscense
 - be a patient coach for Apple
@@ -48,7 +48,7 @@ subtitle: There are no secrets to success. It is the result of preparation, hard
 - how to rent car for traveling
 
 ## Others
-
+---
 #### Upgrade my personal website
 - buy a personal Domain Name
 - update blogs
